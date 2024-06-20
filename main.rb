@@ -1,8 +1,90 @@
-puts 'Hello, World!'
-address = [1,2,3,4,5,6,7,8,9]
-new_address = address.reverse
-print new_address
-print address
-new_address = address.reverse!
-print new_address
-print address
+# print "Hello world\n"
+# puts "Hello world"
+# p "Hello World"
+
+# -----------------------------------------------
+
+# address = [1,2,3,4,5,6,7,8,9]
+# p address
+# new_address = address.reverse
+# p new_address
+# p address
+# new_address = address.reverse!
+# p new_address
+# p address
+
+# -------------------------------------------------
+
+# def say_hello(name)
+#   puts "My name is "+name
+# end
+
+# say_hello "Chandan"
+
+# --------------------------------------------------
+
+# string concatenation
+# first_name = "Jhon"
+# last_name = "Doe"
+# full_name = first_name + " " + last_name
+# puts full_name
+
+# --------------------------------------------------
+
+# string interpolation
+# first_name = "Jhon"
+# last_name = "Doe"
+# full_name = "#{first_name} #{last_name}"
+# puts full_name
+
+# ---------------------------------------------------
+
+# to run ruby in local environment we are using "irb" stands for interactive ruby environment.
+# to clear the screen we are using "ctrl+l" cmd
+# to exit the irb we are using "exit" cmd
+# to compile the file in our local machine we are using "ruby file_name.rb"
+
+# ----------------------------------------------------
+
+# methods how to find them 
+# first_name = "Chandan Gupta"
+# puts first_name.class
+# puts first_name.methods
+# puts 10.to_s.class
+# puts first_name.length
+# puts first_name.reverse
+# puts first_name.capitalize
+# puts first_name.empty?
+# puts first_name.nil?
+# puts nil.nil?
+# puts sentence = "welcome to the jungle welcome to the jungle welcome to the jungle welcome to the jungle ............"
+# puts sentence.gsub("the jungle", "varanasi")
+# puts sentence.sub("the jungle", "varanasi")
+# sub
+# gsub
+
+# -------------------------------------------------------
+
+# common methods
+
+# ------------------------------------------------------
+
+# variable assignment
+
+# first_name = "John Doe"
+# new_first_name = first_name
+# puts first_name
+# puts new_first_name
+# first_name = "Chandan"
+# puts first_name
+# puts new_first_name
+
+# --------------------------------------------------------
+
+# escaping
+
+# puts 'Chandan asked \'Hey john, How are you doing?\''
+
+# --------------------------------------------------------
+
+
