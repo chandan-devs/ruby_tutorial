@@ -46,7 +46,7 @@
 
 # ----------------------------------------------------
 
-# methods how to find them 
+# methods how to find them
 # first_name = "Chandan Gupta"
 # puts first_name.class
 # puts first_name.methods
@@ -87,4 +87,17 @@
 
 # --------------------------------------------------------
 
+# puts 'Enter your first name'
+# first_name = gets.chomp
+# puts 'Enter your last name'
+# last_name = gets.chomp
+# puts "Thank you, you said your name is #{first_name} #{last_name}"
 
+# puts 'Multiply two numbers'
+# puts 'Enter a number'
+# num_1 = gets.chomp
+# puts 'Enter another number'
+# num_2 = gets.chomp
+# puts "Multiplication of two number is #{num_1.to_i * num_2.to_i}"
+
+# --------------------------------------------------------
