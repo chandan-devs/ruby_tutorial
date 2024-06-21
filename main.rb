@@ -101,3 +101,36 @@
 # puts "Multiplication of two number is #{num_1.to_i * num_2.to_i}"
 
 # --------------------------------------------------------
+
+# numbers
+# puts 1+6
+# puts 10/4.to_f
+# puts 28*2
+# puts "-"*30
+# puts "Simple Calculator"
+# 20.times {print "-"}
+# 10.times {puts "Hi!"}
+# 10.times {puts rand(10)}
+# puts rand(10)
+# x = "5".to_i
+# y = "10".to_i
+# puts x*y
+# x = "5".to_f
+# y = "10".to_f
+# puts x*y
+
+# -------------------------------------------------------
+
+# simple calculator
+
+# 30.times{print"-"}
+# puts "\nSimple Calculator"
+# puts "Enter the first number"
+# num_1  = gets.chomp
+# puts "Enter second number"
+# num_2 = gets.chomp
+# puts "The multiplcation of two numbere is #{num_1.to_i % num_2.to_i}"
+# 30.times{print"-"}
+
+# ---------------------------------------------------------
+
