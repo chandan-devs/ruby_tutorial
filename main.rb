@@ -121,16 +121,15 @@
 
 # -------------------------------------------------------
 
-# simple calculator
-
-# 30.times{print"-"}
+# Simple Calculator
+# 30.times { print "-" }
 # puts "\nSimple Calculator"
 # puts "Enter the first number"
-# num_1  = gets.chomp
+# num_1 = gets.chomp
 # puts "Enter second number"
 # num_2 = gets.chomp
-# puts "The multiplcation of two numbere is #{num_1.to_i % num_2.to_i}"
-# 30.times{print"-"}
+# puts "The modulo of two numbers is #{num_1.to_i % num_2.to_i}"
+# 30.times { print "-" }
 
 # ---------------------------------------------------------
 
